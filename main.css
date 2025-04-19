@@ -1,0 +1,17 @@
+.container {
+  padding: 8px 16px;
+}
+
+.table {
+  width: 100%;
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+.table tr th {
+  border: 1px solid black;
+}
+
+.table tr td {
+  border: 1px solid black;
+}
